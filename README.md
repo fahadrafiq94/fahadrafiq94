@@ -71,7 +71,7 @@ Pursuing certifications and staying aligned with the latest trends in AI systems
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://de.linkedin.com/in/fahadrafiq94)  
-- ([https://fahadrafiq94.github.io/Fahad_Portfolio.github](https://fahadrafiq94.github.io/Fahad_Portfolio.github.io/)
+- [Portfolio](https://fahadrafiq94.github.io/Fahad_Portfolio.github.io/)
 - Email: fahadrafiq94@gmail.com
 
 ---
