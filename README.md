@@ -34,12 +34,24 @@ API Integration • GitHub Actions • CI/CD • Scalable Inference
 ---
 ## 🚀 What I’m Up To
 
-- 🔬 Building agentic AI systems that combine autonomy with real-world utility.
-- 🧠 Exploring reinforcement learning, GNNs, and efficient modeling for dynamic environments.
-- 🌐 Working on legal tech tools to simplify form filling and document understanding using AI.
-- ⏱️ Optimizing ML pipelines for speed, scalability, and low-latency inference.
-- 🛠️ Contributing to open-source projects and sharing insights from my ML experiments.
-- 📚 Preparing for advanced certifications and staying updated with AI research and systems design.
+✨ **Building Intelligent Systems**  
+Crafting agentic AI solutions that merge autonomy with real-world impact.
+
+🧠 **Diving Deep into AI Research**  
+Exploring Reinforcement Learning, Graph Neural Networks, and scalable ML modeling for dynamic environments.
+
+📄 **Reimagining Legal Tech**  
+Developing AI-powered tools that automate form filling and document understanding for smoother legal workflows.
+
+⚡ **Optimizing ML Infrastructure**  
+Designing ultra-efficient pipelines with sub-millisecond inference and scalable deployment strategies.
+
+🌍 **Contributing to the AI Community**  
+Sharing insights, improving open-source tools, and collaborating on cutting-edge machine learning projects.
+
+📚 **Learning, Growing, Evolving**  
+Pursuing certifications and staying aligned with the latest trends in AI systems and research.
+
 
 ---
 
