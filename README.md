@@ -72,7 +72,7 @@ I enjoy blending technical depth with creativity, from designing reinforcement l
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://de.linkedin.com/in/fahadrafiq94)  
-- [Personal portfolio & blog](https://fahadrafiq94.github.io/Fahad_Portfolio.github) :contentReference[oaicite:4]{index=4}  
+- [Personal portfolio & blog]([https://fahadrafiq94.github.io/Fahad_Portfolio.github](https://fahadrafiq94.github.io/Fahad_Portfolio.github.io/)
 - Email: fahadrafiq94@gmail.com
 
 ---
