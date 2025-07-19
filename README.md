@@ -14,8 +14,14 @@
 
 ## 👤 About Me
 
-I am a passionate Machine Learning Engineer with a gold medal in Computer Science and a Master’s degree in Artificial Intelligence. I specialize in building scalable, efficient AI solutions, such as an ultra-low-latency travel time prediction model and a computer vision-based dart scoring system. My expertise spans predictive modeling, deep learning, and agentic AI, with a proven ability to optimize system performance and drive significant cost reductions. Developing innovative, real-world applications that push the boundaries of what's possible is my deep commitment to advancing AI technology.
+## 👤 About Me
 
+Hi, I’m **Fahad Rafiq** — a Machine Learning Engineer and AI enthusiast with a passion for solving real-world problems using intelligent systems.  
+🎓 Master's in Artificial Intelligence | 🤖 Experienced in Computer Vision, Time-Series Forecasting & Agentic AI  
+
+🚀 I focus on building scalable ML models and data pipelines that drive impactful outcomes. I enjoy blending technical depth with creativity — from designing reinforcement learning agents to optimizing production-grade ML solutions.  
+
+🌍 Currently exploring AI applications in legal tech and autonomous systems.
 
 ---
 
