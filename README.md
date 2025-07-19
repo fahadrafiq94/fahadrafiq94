@@ -16,39 +16,8 @@ I am a passionate Machine Learning Engineer with a gold medal in Computer Scienc
 
 ## 🛠️ Core Skills
 
-### 👨‍💻 Programming & Scripting
-- Python
-- Bash scripting, Git/GitHub workflows
-
-### 🤖 Machine Learning & AI
-- Scikit-learn, LightGBM, XGBoost, TensorFlow, PyTorch
-- Deep Learning (CNNs, RNNs), Reinforcement Learning
-- Graph Neural Networks (GNNs), Time-Series Forecasting
-
-### 🧠 Computer Vision
-- OpenCV, image segmentation, object detection
-- Real-time vision systems (e.g., dart scoring, crop estimation)
-
-### 🗺️ Data Engineering
-- API-based dataset pipelines, data preprocessing
-- Pandas, NumPy, geospatial data handling
-
-### 📊 Visualization & Tools
-- Power BI, Matplotlib, Seaborn, Plotly
-- Streamlit
-
-### 🧪 Experimentation & Optimization
-- Model evaluation, hyperparameter tuning, performance benchmarking
-- Low-latency inference optimization (sub-millisecond)
-
-### ☁️ Dev & Deployment
-- Docker, GitHub Actions
-- Model deployment workflows (on-premise & cloud-friendly)
-
-## 🛠️ Core Skills
-
 **Languages & Tools:**  
-`Python` • `JavaScript/TypeScript` • `Bash` • `Git` • `Docker`
+`Python`  • `Bash` • `Git` • `Docker`
 
 **Machine Learning & AI:**  
 Scikit-learn • LightGBM • PyTorch • TensorFlow • GNNs • RL • Time Series Forecasting
@@ -60,7 +29,7 @@ OpenCV • Image Detection • Real-time Vision Systems
 Pandas • NumPy • GeoPandas • Power BI • Matplotlib • Streamlit • Plotly
 
 **Dev & Deployment:**  
-API Integration • GitHub Actions • CI/CD • Scalable Inference • RESTful Services
+API Integration • GitHub Actions • CI/CD • Scalable Inference
 
 ---
 ## 🚀 What I’m Up To
