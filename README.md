@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Fahad Rafiq
+### Hi there 👋 I’m Fahad Rafique
 
 #### 💼 Machine Learning Engineer
 
