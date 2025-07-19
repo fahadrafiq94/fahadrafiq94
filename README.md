@@ -1,9 +1,14 @@
-### Hi there 👋 I’m Fahad Rafique
+# Hi there! 👋 I’m **Fahad Rafique**
 
-#### 💼 Machine Learning Engineer
+💼 **Machine Learning Engineer** | 🌍 Based in Würzburg, Germany  
+![Location](https://img.shields.io/badge/Location-Würzburg-blue?style=flat&logo=location)  
+🇵🇰 Proud Pakistani  
 
-🌍 Based in Würzburg, Germany | 🇵🇰 Pakistani  
-🌐 Multilingual: English (fluent), Urdu (native), Punjabi (native), German (basic)
+🌐 Multilingual:  
+![English](https://img.shields.io/badge/English-Fluent-brightgreen?style=flat&logo=google-chrome)  
+![Urdu](https://img.shields.io/badge/Urdu-Native-blue?style=flat&logo=scriptcase)  
+![Punjabi](https://img.shields.io/badge/Punjabi-Native-yellow?style=flat&logo=appveyor)  
+![German](https://img.shields.io/badge/German-Basic-red?style=flat&logo=googlechrome)  
 
 ---
 
