@@ -45,6 +45,23 @@ I am a passionate Machine Learning Engineer with a gold medal in Computer Scienc
 - Docker, GitHub Actions
 - Model deployment workflows (on-premise & cloud-friendly)
 
+## 🛠️ Core Skills
+
+**Languages & Tools:**  
+`Python` • `JavaScript/TypeScript` • `Bash` • `Git` • `Docker`
+
+**Machine Learning & AI:**  
+Scikit-learn • LightGBM • PyTorch • TensorFlow • GNNs • RL • Time Series Forecasting
+
+**Computer Vision:**  
+OpenCV • Image Detection • Real-time Vision Systems
+
+**Data & Visualization:**  
+Pandas • NumPy • GeoPandas • Power BI • Matplotlib • Streamlit • Plotly
+
+**Dev & Deployment:**  
+API Integration • GitHub Actions • CI/CD • Scalable Inference • RESTful Services
+
 ---
 ## 🚀 What I’m Up To
 
