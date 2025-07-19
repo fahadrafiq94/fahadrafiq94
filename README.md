@@ -12,11 +12,10 @@
 
 ---
 
-## 👤 About Me
 
 ## 👤 About Me
 
-Hi, I’m **Fahad Rafiq** — a Machine Learning Engineer and AI enthusiast with a passion for solving real-world problems using intelligent systems.  
+I am a Machine Learning Engineer and AI enthusiast with a passion for solving real-world problems using intelligent systems.
 🎓 Master's in Artificial Intelligence | 🤖 Experienced in Computer Vision, Time-Series Forecasting & Agentic AI  
 
 🚀 I focus on building scalable ML models and data pipelines that drive impactful outcomes. I enjoy blending technical depth with creativity — from designing reinforcement learning agents to optimizing production-grade ML solutions.  
@@ -28,19 +27,34 @@ Hi, I’m **Fahad Rafiq** — a Machine Learning Engineer and AI enthusiast with
 ## 🛠️ Core Skills
 
 **Languages & Tools:**  
-`Python`  • `Bash` • `Git` • `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Machine Learning & AI:**  
-Scikit-learn • LightGBM • PyTorch • TensorFlow • GNNs • RL • Time Series Forecasting
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+![LightGBM](https://img.shields.io/badge/LightGBM-00B14F?style=flat&logo=apachekafka&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-FE4C40?style=flat&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+GNNs • RL • Time Series Forecasting
 
 **Computer Vision:**  
-OpenCV • Image Detection • Real-time Vision Systems
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+Image Detection • Real-time Vision Systems
 
 **Data & Visualization:**  
-Pandas • NumPy • GeoPandas • Power BI • Matplotlib • Streamlit • Plotly
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![GeoPandas](https://img.shields.io/badge/GeoPandas-2A4D69?style=flat&logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 **Dev & Deployment:**  
 API Integration • GitHub Actions • CI/CD • Scalable Inference
+
 
 ---
 ## 🚀 What I’m Up To
