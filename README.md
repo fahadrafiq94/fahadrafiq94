@@ -54,14 +54,17 @@ Pursuing certifications and staying aligned with the latest trends in AI systems
 
 
 ---
-
 ## 👀 I’m Looking To
 
-- 🤝 Collaborate on innovative AI projects, especially in agentic systems, computer vision, or graph-based learning.
-- 🧩 Contribute to open-source communities focused on ML, reinforcement learning, or real-time applications.
-- 🏢 Join a forward-thinking company where I can grow as an ML Engineer and work on impactful solutions.
-- 🧪 Explore research collaborations in applied AI—particularly those that bridge deep learning with real-world deployment.
-- 🗣️ Mentor or be mentored by professionals in the AI and data science community.
+🤝 **Collaborate** on innovative AI projects, with a focus on agentic systems, computer vision, and graph-based learning.
+
+🧩 **Contribute** actively to open-source communities around machine learning, reinforcement learning, and real-time applications.
+
+🏢 **Join** a forward-thinking organization where I can grow as an ML Engineer and develop impactful, real-world solutions.
+
+🧪 **Explore** research partnerships in applied AI, especially at the intersection of deep learning and practical deployment.
+
+🗣️ **Engage** in mentorship—both giving and receiving—within the AI and data science community to foster growth and knowledge exchange.
 
 
 ---
