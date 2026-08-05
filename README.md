@@ -18,7 +18,7 @@
 
 # 💫 About Me
 
-I'm a **Machine Learning Engineer** passionate about transforming research into scalable, production-ready AI solutions.
+I'm an **AI Research Associate** at THWS (Technical University of Applied Sciences Würzburg-Schweinfurt), where I work on developing intelligent AI solutions for ERP education. 
 
 My work focuses on:
 
