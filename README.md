@@ -1,93 +1,165 @@
-# Hi there! 👋  **Fahad Rafique** is here
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Fahad Rafique
 
-💼 **Machine Learning Engineer** | 🌍 Based in Würzburg, Germany  
-![Location](https://img.shields.io/badge/Location-Würzburg-blue?style=flat&logo=location)  
-🇵🇰 Proud Pakistani  
+<div align="center">
 
-🌐 Multilingual:  
-![English](https://img.shields.io/badge/English-Fluent-brightgreen?style=flat&logo=google-chrome)  
-![Urdu](https://img.shields.io/badge/Urdu-Native-blue?style=flat&logo=scriptcase)  
-![Punjabi](https://img.shields.io/badge/Punjabi-Native-yellow?style=flat&logo=appveyor)  
-![German](https://img.shields.io/badge/German-Basic-red?style=flat&logo=googlechrome)  
+### Machine Learning Engineer • AI Researcher • Computer Vision Enthusiast
 
----
+🇵🇰 Pakistani • 🇩🇪 Based in Würzburg, Germany
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&pause=1000\&color=2E9EFF\&center=true\&vCenter=true\&width=700\&lines=Machine+Learning+Engineer;Computer+Vision+Developer;Time-Series+Forecasting;Agentic+AI+Enthusiast;Building+Production+Ready+AI+Systems)](https://git.io/typing-svg)
 
-## 👤 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://de.linkedin.com/in/fahadrafiq94)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge\&logo=google-chrome)](https://fahadrafiq94.github.io/Fahad_Portfolio.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:fahadrafiq94@gmail.com)
 
-I am a Machine Learning Engineer and AI enthusiast with a passion for solving real-world problems using intelligent systems.
-🎓 Master's in Artificial Intelligence | 🤖 Experienced in Computer Vision, Time-Series Forecasting & Agentic AI  
-
-🚀 I focus on building scalable ML models and data pipelines that drive impactful outcomes. I enjoy blending technical depth with creativity — from designing reinforcement learning agents to optimizing production-grade ML solutions.  
-
-🌍 Currently exploring AI applications in legal tech and autonomous systems.
-
----
-## 🛠️ Core Skills
-
-**Languages & Tools:**  
-Python  • Bash • Git • Docker
-
-**Machine Learning & AI:**  
-Scikit-learn • LightGBM • PyTorch • TensorFlow • GNNs • RL • Time Series Forecasting
-
-**Computer Vision:**  
-OpenCV • Image Detection • Real-time Vision Systems
-
-**Data & Visualization:**  
-Pandas • NumPy • GeoPandas • Power BI • Matplotlib • Streamlit • Plotly
-
-**Dev & Deployment:**  
-API Integration • GitHub Actions • CI/CD • Scalable Inference also add visuals in it
-
-
----
-## 🚀 What I’m Up To
-
-✨ **Building Intelligent Systems**  
-Crafting agentic AI solutions that merge autonomy with real-world impact.
-
-🧠 **Diving Deep into AI Research**  
-Exploring Reinforcement Learning, Graph Neural Networks, and scalable ML modeling for dynamic environments.
-
-📄 **Reimagining Legal Tech**  
-Developing AI-powered tools that automate form filling and document understanding for smoother legal workflows.
-
-⚡ **Optimizing ML Infrastructure**  
-Designing ultra-efficient pipelines with sub-millisecond inference and scalable deployment strategies.
-
-🌍 **Contributing to the AI Community**  
-Sharing insights, improving open-source tools, and collaborating on cutting-edge machine learning projects.
-
-📚 **Learning, Growing, Evolving**  
-Pursuing certifications and staying aligned with the latest trends in AI systems and research.
-
-
----
-## 👀 I’m Looking To
-
-🤝 **Collaborate** on innovative AI projects, with a focus on agentic systems, computer vision, and graph-based learning.
-
-🧩 **Contribute** actively to open-source communities around machine learning, reinforcement learning, and real-time applications.
-
-🏢 **Join** a forward-thinking organization where I can grow as an ML Engineer and develop impactful, real-world solutions.
-
-🧪 **Explore** research partnerships in applied AI, especially at the intersection of deep learning and practical deployment.
-
-🗣️ **Engage** in mentorship—both giving and receiving—within the AI and data science community to foster growth and knowledge exchange.
-
+</div>
 
 ---
 
-## 🔗 Connect with Me
-- [LinkedIn](https://de.linkedin.com/in/fahadrafiq94)  
-- [Portfolio](https://fahadrafiq94.github.io/Fahad_Portfolio.github.io/)
-- Email: fahadrafiq94@gmail.com
+# 💫 About Me
+
+I'm a **Machine Learning Engineer** passionate about transforming research into scalable, production-ready AI solutions.
+
+My work focuses on:
+
+* 🤖 Agentic AI Systems
+* 👁️ Computer Vision
+* 📈 Time-Series Forecasting
+* 🧠 Deep Learning
+* 🔗 Graph Neural Networks
+* ⚡ High-performance ML Inference
+* 📄 AI for Legal Technology
+
+Currently pursuing a **Master's in Artificial Intelligence**, I enjoy designing intelligent systems that solve real-world problems while maintaining scalability and deployment efficiency.
 
 ---
 
-## 📊 GitHub Stats & 🗣️ Top Languages
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadrafiq94&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrafiq94&layout=compact&theme=radical)
+# 🚀 Current Focus
+
+* 🧠 Building autonomous AI agents
+* 📄 Developing AI-powered Legal Tech solutions
+* ⚡ Optimizing ML pipelines for production
+* 🤖 Reinforcement Learning research
+* 🌍 Open Source AI contributions
+* 📚 Continuous learning in modern AI systems
 
 ---
+
+# 🛠 Tech Stack
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+
+## Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+
+## Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi)
+
+## Deployment
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+
+---
+
+# 🌍 Languages
+
+| Language     | Level  |
+| ------------ | ------ |
+| 🇬🇧 English | Fluent |
+| 🇵🇰 Urdu    | Native |
+| 🇵🇰 Punjabi | Native |
+| 🇩🇪 German  | Basic  |
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahadrafiq94&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrafiq94&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=fahadrafiq94&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fahadrafiq94&theme=tokyonight&no-frame=true&column=6"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadrafiq94&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Open to Collaborate
+
+I'm interested in collaborating on:
+
+* Agentic AI
+* Computer Vision
+* Reinforcement Learning
+* Graph Neural Networks
+* MLOps
+* Production ML Systems
+* Legal AI
+* Research Projects
+* Open Source AI
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:fahadrafiq94@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://de.linkedin.com/in/fahadrafiq94">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://fahadrafiq94.github.io/Fahad_Portfolio.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building AI that creates real-world impact."
+
+![](https://komarev.com/ghpvc/?username=fahadrafiq94\&style=for-the-badge\&color=blue)
+
+</div>
