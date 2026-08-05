@@ -30,8 +30,6 @@ My work focuses on:
 * ⚡ High-performance ML Inference
 * 📄 AI for Legal Technology
 
-I'm an AI Research Associate at THWS (Technical University of Applied Sciences Würzburg-Schweinfurt), where I work on developing intelligent AI solutions for ERP education. 
-
 ---
 
 # 🚀 Current Focus
