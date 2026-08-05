@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### AI Research Associate 
+### AI Researcher 
 
 🇵🇰 Pakistani • 🇩🇪 Based in Würzburg, Germany
 
