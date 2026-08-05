@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Machine Learning Engineer • AI Researcher • Computer Vision Enthusiast
+### AI Research Associate 
 
 🇵🇰 Pakistani • 🇩🇪 Based in Würzburg, Germany
 
@@ -30,7 +30,7 @@ My work focuses on:
 * ⚡ High-performance ML Inference
 * 📄 AI for Legal Technology
 
-Currently pursuing a **Master's in Artificial Intelligence**, I enjoy designing intelligent systems that solve real-world problems while maintaining scalability and deployment efficiency.
+I'm an AI Research Associate at THWS (Technical University of Applied Sciences Würzburg-Schweinfurt), where I work on developing intelligent AI solutions for ERP education. 
 
 ---
 
@@ -54,6 +54,25 @@ Currently pursuing a **Master's in Artificial Intelligence**, I enjoy designing 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 
+## 🤖 Agentic AI & LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B3FF2?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-5A67D8?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-success?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E40C9?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+
 ## Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
@@ -71,6 +90,7 @@ Currently pursuing a **Master's in Artificial Intelligence**, I enjoy designing 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi)
 
+
 ## Deployment
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
@@ -87,7 +107,7 @@ Currently pursuing a **Master's in Artificial Intelligence**, I enjoy designing 
 | 🇬🇧 English | Fluent |
 | 🇵🇰 Urdu    | Native |
 | 🇵🇰 Punjabi | Native |
-| 🇩🇪 German  | Basic  |
+| 🇩🇪 German  | Intermediate  |
 
 ---
 
@@ -130,7 +150,6 @@ I'm interested in collaborating on:
 * Graph Neural Networks
 * MLOps
 * Production ML Systems
-* Legal AI
 * Research Projects
 * Open Source AI
 
