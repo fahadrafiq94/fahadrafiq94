@@ -109,27 +109,6 @@ My work focuses on:
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahadrafiq94&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrafiq94&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=fahadrafiq94&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fahadrafiq94&theme=tokyonight&no-frame=true&column=6"/>
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
